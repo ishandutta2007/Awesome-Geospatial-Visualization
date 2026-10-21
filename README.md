@@ -65,125 +65,125 @@ The table below outlines leading enterprise geospatial and location intelligence
 
 ### ⭐ Open-Source Projects Index (Sorted by Stars)
 
-The table below lists top open-source projects sorted by GitHub star count in descending order. Each badge links directly to the repository's stargazers page:
+The table below lists top open-source projects sorted by GitHub Stars_Count in descending order. Each badge links directly to the repository's stargazers page:
 
-| Project Name | GitHub Star Badge (Click to View Stargazers) 🌟 | Primary Domain 🌐 | Core Tech Stack 🛠️ | License 📜 |
+| Project Name | GitHub Stars_Badge (Click to View Stargazers) 🌟 | Primary Domain 🌐 | Core Tech Stack 🛠️ | License 📜 |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Leaflet](https://github.com/Leaflet/Leaflet)** | [![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers) | Lightweight Mobile-Friendly Interactive Web Maps | JavaScript | BSD-2-Clause |
-| **[CesiumJS](https://github.com/CesiumGS/cesium)** | [![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers) | 3D Globes, Digital Twins & 3D Tiles Streaming | JavaScript / WebGL | Apache-2.0 |
-| **[deck.gl](https://github.com/visgl/deck.gl)** | [![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers) | WebGL2 / WebGPU Large-Scale Spatial Analytics | JavaScript / TypeScript / WebGL2 / WebGPU | MIT |
-| **[QGIS](https://github.com/qgis/QGIS)** | [![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers) | Professional Desktop GIS & Cartographic Production | C++ / Python / Qt | GPL-2.0 |
-| **[OpenLayers](https://github.com/openlayers/openlayers)** | [![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers) | Comprehensive Heavy-Duty Web Mapping Library | JavaScript / TypeScript | BSD-2-Clause |
-| **[Kepler.gl](https://github.com/keplergl/kepler.gl)** | [![GitHub stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers) | WebGL Exploratory Geospatial Data Visualization | React / Redux / deck.gl | MIT |
-| **[MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)** | [![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers) | Open-Source Vector Tile & 3D Map Rendering Engine | TypeScript / WebGL | BSD-3-Clause |
-| **[Turf.js](https://github.com/Turfjs/turf)** | [![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social&color=white)](https://github.com/Turfjs/turf/stargazers) | Advanced Geospatial Spatial Analysis in JavaScript | JavaScript / TypeScript | MIT |
-| **[GeoLibre](https://github.com/opengeos/GeoLibre)** | [![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social&color=white)](https://github.com/opengeos/GeoLibre/stargazers) | Browser/Desktop Cloud-Native GIS & WebAssembly Engine | Tauri / React / MapLibre / DuckDB-WASM | MIT |
-| **[Folium](https://github.com/python-visualization/folium)** | [![GitHub stars](https://img.shields.io/github/stars/python-visualization/folium?style=social&color=white)](https://github.com/python-visualization/folium/stargazers) | Python Leaflet Map Generation for Data Science | Python / Leaflet.js | MIT |
-| **[OpenFreeMap](https://github.com/hyperknot/openfreemap)** | [![GitHub stars](https://img.shields.io/github/stars/hyperknot/openfreemap?style=social&color=white)](https://github.com/hyperknot/openfreemap/stargazers) | Free Self-Hostable OpenStreetMap Vector Tile Server | Go / MapLibre | MIT |
-| **[GeoPandas](https://github.com/geopandas/geopandas)** | [![GitHub stars](https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white)](https://github.com/geopandas/geopandas/stargazers) | Python Geospatial Data Operations on Pandas DataFrames | Python / Shapely / Fiona | BSD-3-Clause |
-| **[GeoServer](https://github.com/geoserver/geoserver)** | [![GitHub stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers) | OGC-Compliant Geospatial Map & Feature Server | Java / Spring | GPL-2.0 |
-| **[OpenMapTiles](https://github.com/openmaptiles/openmaptiles)** | [![GitHub stars](https://img.shields.io/github/stars/openmaptiles/openmaptiles?style=social&color=white)](https://github.com/openmaptiles/openmaptiles/stargazers) | OpenStreetMap Vector Tile Schema & Generation | SQL / Python / Docker | CC-BY 4.0 / BSD |
-| **[Open GEE](https://github.com/google/earthenterprise)** | [![GitHub stars](https://img.shields.io/github/stars/google/earthenterprise?style=social&color=white)](https://github.com/google/earthenterprise/stargazers) | Private Petabyte Globe & Imagery Publishing (Google Earth) | C++ / Python / Apache | Apache-2.0 |
-| **[uMap](https://github.com/umap-project/umap)** | [![GitHub stars](https://img.shields.io/github/stars/umap-project/umap?style=social&color=white)](https://github.com/umap-project/umap/stargazers) | Rapid Custom Embeddable OSM Map Creator | Python / Django / Leaflet | WTFPL |
-| **[GRASS GIS](https://github.com/OSGeo/grass)** | [![GitHub stars](https://img.shields.io/github/stars/OSGeo/grass?style=social&color=white)](https://github.com/OSGeo/grass/stargazers) | High-Performance Raster/Vector Geospatial Modeling | C / Python | GPL-2.0 |
-| **[Lonboard](https://github.com/developmentseed/lonboard)** | [![GitHub stars](https://img.shields.io/github/stars/developmentseed/lonboard?style=social&color=white)](https://github.com/developmentseed/lonboard/stargazers) | Fast Interactive Python Maps with GeoArrow & deck.gl | Python / GeoArrow / deck.gl | Apache-2.0 |
-| **[Dekart](https://github.com/dekart-xyz/dekart)** | [![GitHub stars](https://img.shields.io/github/stars/dekart-xyz/dekart?style=social&color=white)](https://github.com/dekart-xyz/dekart/stargazers) | Cloud Data Warehouse UI & Backend for Kepler.gl | Go / React / Kepler.gl | MIT |
+| **[Leaflet](https://github.com/Leaflet/Leaflet)** | [![GitHub_Stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers) | Lightweight Mobile-Friendly Interactive Web Maps | JavaScript | BSD-2-Clause |
+| **[CesiumJS](https://github.com/CesiumGS/cesium)** | [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers) | 3D Globes, Digital Twins & 3D Tiles Streaming | JavaScript / WebGL | Apache-2.0 |
+| **[deck.gl](https://github.com/visgl/deck.gl)** | [![GitHub_Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers) | WebGL2 / WebGPU Large-Scale Spatial Analytics | JavaScript / TypeScript / WebGL2 / WebGPU | MIT |
+| **[QGIS](https://github.com/qgis/QGIS)** | [![GitHub_Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers) | Professional Desktop GIS & Cartographic Production | C++ / Python / Qt | GPL-2.0 |
+| **[OpenLayers](https://github.com/openlayers/openlayers)** | [![GitHub_Stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers) | Comprehensive Heavy-Duty Web Mapping Library | JavaScript / TypeScript | BSD-2-Clause |
+| **[Kepler.gl](https://github.com/keplergl/kepler.gl)** | [![GitHub_Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers) | WebGL Exploratory Geospatial Data Visualization | React / Redux / deck.gl | MIT |
+| **[MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)** | [![GitHub_Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers) | Open-Source Vector Tile & 3D Map Rendering Engine | TypeScript / WebGL | BSD-3-Clause |
+| **[Turf.js](https://github.com/Turfjs/turf)** | [![GitHub_Stars](https://img.shields.io/github/stars/Turfjs/turf?style=social&color=white)](https://github.com/Turfjs/turf/stargazers) | Advanced Geospatial Spatial Analysis in JavaScript | JavaScript / TypeScript | MIT |
+| **[GeoLibre](https://github.com/opengeos/GeoLibre)** | [![GitHub_Stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social&color=white)](https://github.com/opengeos/GeoLibre/stargazers) | Browser/Desktop Cloud-Native GIS & WebAssembly Engine | Tauri / React / MapLibre / DuckDB-WASM | MIT |
+| **[Folium](https://github.com/python-visualization/folium)** | [![GitHub_Stars](https://img.shields.io/github/stars/python-visualization/folium?style=social&color=white)](https://github.com/python-visualization/folium/stargazers) | Python Leaflet Map Generation for Data Science | Python / Leaflet.js | MIT |
+| **[OpenFreeMap](https://github.com/hyperknot/openfreemap)** | [![GitHub_Stars](https://img.shields.io/github/stars/hyperknot/openfreemap?style=social&color=white)](https://github.com/hyperknot/openfreemap/stargazers) | Free Self-Hostable OpenStreetMap Vector Tile Server | Go / MapLibre | MIT |
+| **[GeoPandas](https://github.com/geopandas/geopandas)** | [![GitHub_Stars](https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white)](https://github.com/geopandas/geopandas/stargazers) | Python Geospatial Data Operations on Pandas DataFrames | Python / Shapely / Fiona | BSD-3-Clause |
+| **[GeoServer](https://github.com/geoserver/geoserver)** | [![GitHub_Stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers) | OGC-Compliant Geospatial Map & Feature Server | Java / Spring | GPL-2.0 |
+| **[OpenMapTiles](https://github.com/openmaptiles/openmaptiles)** | [![GitHub_Stars](https://img.shields.io/github/stars/openmaptiles/openmaptiles?style=social&color=white)](https://github.com/openmaptiles/openmaptiles/stargazers) | OpenStreetMap Vector Tile Schema & Generation | SQL / Python / Docker | CC-BY 4.0 / BSD |
+| **[Open GEE](https://github.com/google/earthenterprise)** | [![GitHub_Stars](https://img.shields.io/github/stars/google/earthenterprise?style=social&color=white)](https://github.com/google/earthenterprise/stargazers) | Private Petabyte Globe & Imagery Publishing (Google Earth) | C++ / Python / Apache | Apache-2.0 |
+| **[uMap](https://github.com/umap-project/umap)** | [![GitHub_Stars](https://img.shields.io/github/stars/umap-project/umap?style=social&color=white)](https://github.com/umap-project/umap/stargazers) | Rapid Custom Embeddable OSM Map Creator | Python / Django / Leaflet | WTFPL |
+| **[GRASS GIS](https://github.com/OSGeo/grass)** | [![GitHub_Stars](https://img.shields.io/github/stars/OSGeo/grass?style=social&color=white)](https://github.com/OSGeo/grass/stargazers) | High-Performance Raster/Vector Geospatial Modeling | C / Python | GPL-2.0 |
+| **[Lonboard](https://github.com/developmentseed/lonboard)** | [![GitHub_Stars](https://img.shields.io/github/stars/developmentseed/lonboard?style=social&color=white)](https://github.com/developmentseed/lonboard/stargazers) | Fast Interactive Python Maps with GeoArrow & deck.gl | Python / GeoArrow / deck.gl | Apache-2.0 |
+| **[Dekart](https://github.com/dekart-xyz/dekart)** | [![GitHub_Stars](https://img.shields.io/github/stars/dekart-xyz/dekart?style=social&color=white)](https://github.com/dekart-xyz/dekart/stargazers) | Cloud Data Warehouse UI & Backend for Kepler.gl | Go / React / Kepler.gl | MIT |
 
 ---
 
 ### 🔍 Detailed Project Profiles
 
-#### 1. [Leaflet](https://github.com/Leaflet/Leaflet) [![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers)
+#### 1. [Leaflet](https://github.com/Leaflet/Leaflet) [![GitHub_Stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers)
 - **Description**: 🍃 The undisputed lightweight champion for mobile-friendly interactive web maps. Weighing only ~42 KB of JS, Leaflet delivers simplicity, performance, and an enormous ecosystem of hundreds of community plugins for layers, clustering, heatmaps, and drawing.
 - **Ideal For**: Web applications, content management systems, responsive dashboards, and projects prioritizing minimal bundle size and broad browser compatibility.
 - **License**: BSD-2-Clause
 
-#### 2. [CesiumJS](https://github.com/CesiumGS/cesium) [![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers)
+#### 2. [CesiumJS](https://github.com/CesiumGS/cesium) [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers)
 - **Description**: 🪐 The industry-standard open platform for high-precision 3D globes, virtual earth simulations, and spatial digital twins. Pioneered the OGC 3D Tiles specification, streaming massive point clouds, textured meshes, and photogrammetry models with dynamic level-of-detail (LoD).
 - **Ideal For**: Aerospace, defense, architectural digital twins, drone surveying, and photorealistic 3D city visualizations.
 - **License**: Apache-2.0
 
-#### 3. [deck.gl](https://github.com/visgl/deck.gl) [![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers)
+#### 3. [deck.gl](https://github.com/visgl/deck.gl) [![GitHub_Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers)
 - **Description**: ⚡ Uber/OpenJS Foundation's WebGL2 and WebGPU-powered framework engineered specifically for high-performance visual exploratory analysis of multi-million-row spatial datasets. Compose customizable layers (Hexagons, Arcs, Heatmaps, PointClouds, 3D Columns) directly on GPU buffers.
 - **Ideal For**: Data engineering dashboards, real-time mobility streams, fleet tracking, and pairing with cloud data warehouses.
 - **License**: MIT
 
-#### 4. [QGIS](https://github.com/qgis/QGIS) [![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers)
+#### 4. [QGIS](https://github.com/qgis/QGIS) [![GitHub_Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers)
 - **Description**: 🖥️ The flagship open-source desktop Geographic Information System. Features full raster and vector editing, mesh layers, point cloud rendering, 3D map views, enterprise database connectivity (PostGIS, SpatiaLite, Oracle), advanced cartographic print composers, and thousands of Python plugins.
 - **Ideal For**: Professional cartography, municipal spatial planning, environmental analysis, and enterprise desktop GIS workstation deployments.
 - **License**: GPL-2.0
 
-#### 5. [OpenLayers](https://github.com/openlayers/openlayers) [![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers)
+#### 5. [OpenLayers](https://github.com/openlayers/openlayers) [![GitHub_Stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers)
 - **Description**: 📚 High-performance, feature-packed client-side mapping library capable of rendering vector tiles, OGC WMS/WMTS/WFS layers, arbitrary coordinate reference system (CRS) projections on the fly, and complex vector geometry topologies.
 - **Ideal For**: Enterprise web GIS solutions requiring strict OGC compliance, specialized non-Web-Mercator projections, and robust in-browser vector styling.
 - **License**: BSD-2-Clause
 
-#### 6. [Kepler.gl](https://github.com/keplergl/kepler.gl) [![GitHub stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers)
+#### 6. [Kepler.gl](https://github.com/keplergl/kepler.gl) [![GitHub_Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers)
 - **Description**: ✨ Data-agnostic, WebGL-accelerated geospatial analysis application built on deck.gl and React. Enables immediate drag-and-drop exploration of CSV, GeoJSON, and Parquet data with time-playback animations, 3D hexbins, and customizable filters without writing code.
 - **Ideal For**: Data scientists, urban planners, and embedding modular visualization components into custom enterprise React/Redux applications.
 - **License**: MIT
 
-#### 7. [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) [![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers)
+#### 7. [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) [![GitHub_Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers)
 - **Description**: 🗺️ Community-governed open-source fork of Mapbox GL JS maintained under the MapLibre organization. Delivers GPU-accelerated client-side vector tile rendering, 3D terrain elevation meshes, globe projection, and custom shader styling without telemetry or proprietary key enforcement.
 - **Ideal For**: Developers migrating away from Mapbox fees, self-hosted vector map stacks, and custom base map applications.
 - **License**: BSD-3-Clause
 
-#### 8. [Turf.js](https://github.com/Turfjs/turf) [![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social&color=white)](https://github.com/Turfjs/turf/stargazers)
+#### 8. [Turf.js](https://github.com/Turfjs/turf) [![GitHub_Stars](https://img.shields.io/github/stars/Turfjs/turf?style=social&color=white)](https://github.com/Turfjs/turf/stargazers)
 - **Description**: 📐 Modular spatial analysis library written in JavaScript and TypeScript. Executes topological operations, spatial joins, boolean intersections, buffers, convex hulls, Voronoi diagrams, and distance calculations directly in the browser or Node.js microservices using standard GeoJSON.
 - **Ideal For**: Client-side geofencing, geometry validation, in-memory spatial transformations, and serverless geospatial pipelines.
 - **License**: MIT
 
-#### 9. [GeoLibre](https://github.com/opengeos/GeoLibre) [![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social&color=white)](https://github.com/opengeos/GeoLibre/stargazers)
+#### 9. [GeoLibre](https://github.com/opengeos/GeoLibre) [![GitHub_Stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social&color=white)](https://github.com/opengeos/GeoLibre/stargazers)
 - **Description**: 🚀 Modern, free, cloud-native GIS platform operating seamlessly in browsers, desktops (via Tauri), mobile, and Jupyter notebooks. Features four interchangeable synchronized rendering engines (MapLibre, Mapbox, CesiumJS, ArcGIS SDK) and over 1,000 geoprocessing tools running locally via WebAssembly and DuckDB-WASM Spatial.
 - **Ideal For**: Zero-installation GIS workflows, decentralized local data governance, and multi-engine comparative spatial analysis.
 - **License**: MIT
 
-#### 10. [Folium](https://github.com/python-visualization/folium) [![GitHub stars](https://img.shields.io/github/stars/python-visualization/folium?style=social&color=white)](https://github.com/python-visualization/folium/stargazers)
+#### 10. [Folium](https://github.com/python-visualization/folium) [![GitHub_Stars](https://img.shields.io/github/stars/python-visualization/folium?style=social&color=white)](https://github.com/python-visualization/folium/stargazers)
 - **Description**: 🐍 Bridges the analytical power of the Python scientific ecosystem (Pandas, GeoPandas) with the interactive visual capabilities of Leaflet.js. Directly generates interactive HTML maps and choropleths within Jupyter Notebooks with minimal syntax.
 - **Ideal For**: Python data science exploration, rapid prototype mapping in Jupyter/Google Colab, and reproducible academic notebooks.
 - **License**: MIT
 
-#### 11. [OpenFreeMap](https://github.com/hyperknot/openfreemap) [![GitHub stars](https://img.shields.io/github/stars/hyperknot/openfreemap?style=social&color=white)](https://github.com/hyperknot/openfreemap/stargazers)
+#### 11. [OpenFreeMap](https://github.com/hyperknot/openfreemap) [![GitHub_Stars](https://img.shields.io/github/stars/hyperknot/openfreemap?style=social&color=white)](https://github.com/hyperknot/openfreemap/stargazers)
 - **Description**: 🆓 Fully open-source map tile hosting service and self-hosted solution powered by OpenStreetMap data. Operates with zero rate limits, no mandatory API tokens, and pre-packaged production Docker images for instant local or cloud deployment.
 - **Ideal For**: Eliminating commercial map tile bills and self-hosting ultra-fast vector map infrastructure.
 - **License**: MIT
 
-#### 12. [GeoPandas](https://github.com/geopandas/geopandas) [![GitHub stars](https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white)](https://github.com/geopandas/geopandas/stargazers)
+#### 12. [GeoPandas](https://github.com/geopandas/geopandas) [![GitHub_Stars](https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white)](https://github.com/geopandas/geopandas/stargazers)
 - **Description**: 🐼 Extends Pandas data structures to support spatial geometries through Shapely, pyproj, and Fiona. Enables spatial joins, geometric predicates, coordinate system re-projections, and seamless export to GeoJSON, Shapefile, and GeoParquet.
 - **Ideal For**: Core data engineering, spatial transformations, data wrangling, and preparing spatial layers for web visualization.
 - **License**: BSD-3-Clause
 
-#### 13. [GeoServer](https://github.com/geoserver/geoserver) [![GitHub stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers)
+#### 13. [GeoServer](https://github.com/geoserver/geoserver) [![GitHub_Stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers)
 - **Description**: ☕ The reference implementation server for publishing geospatial data from any major spatial data source using open industry standards. Connects directly to PostGIS, Oracle Spatial, GeoTIFF, and Shapefiles to publish OGC-compliant WMS, WFS, WCS, and WMTS services.
 - **Ideal For**: Enterprise and government spatial data infrastructure (SDI), OGC interoperability, and spatial microservices.
 - **License**: GPL-2.0
 
-#### 14. [OpenMapTiles](https://github.com/openmaptiles/openmaptiles) [![GitHub stars](https://img.shields.io/github/stars/openmaptiles/openmaptiles?style=social&color=white)](https://github.com/openmaptiles/openmaptiles/stargazers)
+#### 14. [OpenMapTiles](https://github.com/openmaptiles/openmaptiles) [![GitHub_Stars](https://img.shields.io/github/stars/openmaptiles/openmaptiles?style=social&color=white)](https://github.com/openmaptiles/openmaptiles/stargazers)
 - **Description**: 🧩 Extensible open schema and toolchain for generating OpenStreetMap vector tiles in 50+ languages. Powers global basemaps with vector tile specifications that are compatible with MapLibre, Mapbox GL, and open tile servers.
 - **Ideal For**: Custom world cartography generation, offline mapping applications, and corporate tile server self-hosting.
 - **License**: CC-BY 4.0 / BSD
 
-#### 15. [Open GEE (Google Earth Enterprise)](https://github.com/google/earthenterprise) [![GitHub stars](https://img.shields.io/github/stars/google/earthenterprise?style=social&color=white)](https://github.com/google/earthenterprise/stargazers)
+#### 15. [Open GEE (Google Earth Enterprise)](https://github.com/google/earthenterprise) [![GitHub_Stars](https://img.shields.io/github/stars/google/earthenterprise?style=social&color=white)](https://github.com/google/earthenterprise/stargazers)
 - **Description**: 🌍 Google's open-source release of the former Google Earth Enterprise suite. Enables organizations to build and host private 3D virtual globes and 2D fly-through maps from petabytes of high-resolution aerial imagery, elevation terrain, and vector layers on private or air-gapped infrastructure.
 - **Ideal For**: Air-gapped defense networks, sovereign government mapping, and private Google Earth Desktop client deployments.
 - **License**: Apache-2.0
 
-#### 16. [uMap](https://github.com/umap-project/umap) [![GitHub stars](https://img.shields.io/github/stars/umap-project/umap?style=social&color=white)](https://github.com/umap-project/umap/stargazers)
+#### 16. [uMap](https://github.com/umap-project/umap) [![GitHub_Stars](https://img.shields.io/github/stars/umap-project/umap?style=social&color=white)](https://github.com/umap-project/umap/stargazers)
 - **Description**: 🗺️ Web application allowing users to build custom interactive maps on top of OpenStreetMap basemaps in minutes and embed them into any webpage. Supports points, lines, polygons, custom markers, and importing GPX/KML/CSV data.
 - **Ideal For**: Community mapping, non-profit outreach, journalists, and non-programmers needing fast, shareable custom maps.
 - **License**: WTFPL
 
-#### 17. [GRASS GIS](https://github.com/OSGeo/grass) [![GitHub stars](https://img.shields.io/github/stars/OSGeo/grass?style=social&color=white)](https://github.com/OSGeo/grass/stargazers)
+#### 17. [GRASS GIS](https://github.com/OSGeo/grass) [![GitHub_Stars](https://img.shields.io/github/stars/OSGeo/grass?style=social&color=white)](https://github.com/OSGeo/grass/stargazers)
 - **Description**: 🌿 Established OSGeo project boasting over 350 specialized algorithmic modules for raster, vector, and 3D voxel spatial modeling, hydrological simulations, satellite image processing, and geostatistics.
 - **Ideal For**: Academic environmental modeling, watershed management, terrain morphology, and advanced algorithmic processing backends.
 - **License**: GPL-2.0
 
-#### 18. [Lonboard](https://github.com/developmentseed/lonboard) [![GitHub stars](https://img.shields.io/github/stars/developmentseed/lonboard?style=social&color=white)](https://github.com/developmentseed/lonboard/stargazers)
+#### 18. [Lonboard](https://github.com/developmentseed/lonboard) [![GitHub_Stars](https://img.shields.io/github/stars/developmentseed/lonboard?style=social&color=white)](https://github.com/developmentseed/lonboard/stargazers)
 - **Description**: 🛹 Python library built by Development Seed for high-speed, interactive geospatial data visualization. Built on GeoArrow and deck.gl, Lonboard transfers spatial data directly from Python memory to the GPU via binary buffers, rendering millions of points and polygons in Jupyter Notebooks with zero lag.
 - **Ideal For**: Visualizing massive GeoDataFrames, spatial ML workflows, and real-time interactive exploratory data science in Python.
 - **License**: Apache-2.0
 
-#### 19. [Dekart](https://github.com/dekart-xyz/dekart) [![GitHub stars](https://img.shields.io/github/stars/dekart-xyz/dekart?style=social&color=white)](https://github.com/dekart-xyz/dekart/stargazers)
+#### 19. [Dekart](https://github.com/dekart-xyz/dekart) [![GitHub_Stars](https://img.shields.io/github/stars/dekart-xyz/dekart?style=social&color=white)](https://github.com/dekart-xyz/dekart/stargazers)
 - **Description**: 📊 Open-source web UI and backend pairing Kepler.gl directly with cloud data warehouses like Google BigQuery, Snowflake, and Wherobots. Executes SQL queries against spatial databases and streams GeoJSON/vector tiles directly into GPU-accelerated visualizations.
 - **Ideal For**: Engineering teams wanting collaborative, database-connected Kepler.gl visual dashboards on self-hosted infrastructure.
 - **License**: MIT
@@ -240,7 +240,7 @@ We welcome additions, corrections, and updates from the geospatial community! �
 2. **Create a Feature Branch**: `git checkout -b add-geospatial-tool`
 3. **Add Your Entry**:
    - For **SaaS platforms**: Add to the SaaS table including specific entry tier pricing, verified free tier/trial limits, and vendor company scale.
-   - For **Open-Source projects**: Include the official GitHub repository link, the social style star badge `[![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`, primary domain, tech stack, license, and maintain star-sorted ordering.
+   - For **Open-Source projects**: Include the official GitHub repository link, the social style Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`, primary domain, tech stack, license, and maintain star-sorted ordering.
 4. **Submit a Pull Request**: Provide a concise summary of the addition and relevant documentation links.
 
 ---
